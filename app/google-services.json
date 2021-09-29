@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "730993415286",
+    "firebase_url": "https://dronepub-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dronepub",
+    "storage_bucket": "dronepub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730993415286:android:6441714cfbad87eeeb3b57",
+        "android_client_info": {
+          "package_name": "com.vizzbee.dronetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730993415286-853vpob1vlkcif4rvrmoek6rgn5f3a7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vizzbee.dronetracker",
+            "certificate_hash": "acaea71c1d257ff20b407ddf25d43db8a5c238bf"
+          }
+        },
+        {
+          "client_id": "730993415286-975pdudfkveff0iqjs95upf2qgkusbnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh8mtjKjlvu7RPRvchqyfGc4tpto0hMMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730993415286-975pdudfkveff0iqjs95upf2qgkusbnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
